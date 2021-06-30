@@ -12,7 +12,7 @@
   "repository": "git@github.com:tosdr/tosdr.org.git",
   "dependencies": {
     "imap": "*",
-    "mailparser": "^2.7.7",
+    "mailparser": "^2.8.1",
     "mongodb": "^3.5.4",
     "mustache": "^4.0.0",
     "node-static": "^0.7.11",
